@@ -24,3 +24,15 @@
 - [Zynq-7000. RS485 Linux driver.](http://microelk.azurewebsites.net/ZynqLnxRS485/ZynqLnxRS485)
 - [Cyclone V SoC. Platform driver for Avalon IP.](http://microelk.azurewebsites.net/CVAvalonIPModule/CVAvalonIPModule)
 
+## Electronics
+
+- [VGA protocol disclosure](http://microelk.azurewebsites.net/VGA_protocol/VGA_protocol)
+- [Power supply based on LM2678 simple switcher that gives you more than 1A current](http://microelk.azurewebsites.net/LM2678ADJ/LM2678ADJ)
+- [4-20mA current loop output: anyMCU => MCP4921 => XTR116/115](http://microelk.azurewebsites.net/OUT_4_20_mA/OUT_4_20_mA)
+- [Precision angle sensor with 4...20mA current output](http://microelk.azurewebsites.net/AngleSensor/AngleSensor)
+
+## Raspberry PI
+
+- [How to connect UART device to your Raspberry Pi working under Windows IOT Core](http://microelk.azurewebsites.net/Raspberry_UART/Raspberry_UART)
+- [How to connect I2C 16-bit Port Expander to your Raspberry Pi working under Windows IOT Core](http://microelk.azurewebsites.net/MCP23017/MCP23017)
+
