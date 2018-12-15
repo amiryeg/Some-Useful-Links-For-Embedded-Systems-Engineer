@@ -1,8 +1,8 @@
 # Some Useful Links For Embedded Systems Engineer
 
-## ARM Cortex-M7
+## STemWin/emWin
 
-### STemWin/emWin
+### ARM Cortex-M7
 
 - [PART I - Hardware configuration](http://microelk.azurewebsites.net/STM32_STEmWin/STM32_STEmWin)
 - [PART II - Project adjustment](http://microelk.azurewebsites.net/STM32_STEmWin_2/STM32_STEmWin_2)
@@ -13,8 +13,6 @@
 - [PART VII - GUI and touch PID](http://microelk.azurewebsites.net/STM32_STEmWin_7/STM32_STEmWin_7)
 
 ## ARM Cortex-M3
-
-### STemWin/emWin
 
 - [STEmWin for STM32F10xxx. PART I - HARDWARE](http://microelk.azurewebsites.net/STM32_CZ_mini/STM32_CZ_mini)
 - [STEmWin for STM32F10xxx. PART II - SOFTWARE](http://microelk.azurewebsites.net/STM32_CZ_mini_II/STM32_CZ_mini_II)
