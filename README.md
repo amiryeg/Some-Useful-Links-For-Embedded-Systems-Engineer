@@ -3,8 +3,10 @@
 ## STM32 Microcontrollers
 ### General
 - [STM Studio: Variables monitoring and visualization tool for STM32](https://letanphuc.net/2015/04/stm-studio-variables-monitoring-and-visualization-tool-for-stm32/)
-### STM32F0 Tutorials
+### STM32F0
 - [Le Tan Phuc's Weblog](https://letanphuc.net/)
+### STM32F4
+- [Tilen Majerle's Weblog: Libraries and tutorials for STM32Fxxx series](https://stm32f4-discovery.net/)
 
 ## STemWin/emWin
 ### ARM Cortex-M7
