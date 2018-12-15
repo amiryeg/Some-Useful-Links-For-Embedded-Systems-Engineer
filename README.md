@@ -12,7 +12,7 @@
 - [PART VI - Dual-layer driver](http://microelk.azurewebsites.net/STM32_STEmWin_6/STM32_STEmWin_6)
 - [PART VII - GUI and touch PID](http://microelk.azurewebsites.net/STM32_STEmWin_7/STM32_STEmWin_7)
 
-## ARM Cortex-M3
+### ARM Cortex-M3
 
 - [STEmWin for STM32F10xxx. PART I - HARDWARE](http://microelk.azurewebsites.net/STM32_CZ_mini/STM32_CZ_mini)
 - [STEmWin for STM32F10xxx. PART II - SOFTWARE](http://microelk.azurewebsites.net/STM32_CZ_mini_II/STM32_CZ_mini_II)
