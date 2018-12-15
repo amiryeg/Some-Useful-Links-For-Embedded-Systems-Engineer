@@ -4,6 +4,7 @@
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
 - [STM Studio: Variables monitoring and visualization tool for STM32](https://letanphuc.net/2015/04/stm-studio-variables-monitoring-and-visualization-tool-for-stm32/)
 - [Le Tan Phuc's Weblog: Tutorials for STM32F0 series](https://letanphuc.net/)
+- [EmBitz: Tutorials for STM32F4 series](http://www.emblocks.org/wiki/)
 
 ## STemWin/emWin
 ### ARM Cortex-M7
