@@ -3,10 +3,8 @@
 ## STM32 Microcontrollers
 ### General
 - [STM Studio: Variables monitoring and visualization tool for STM32](https://letanphuc.net/2015/04/stm-studio-variables-monitoring-and-visualization-tool-for-stm32/)
-### GPIO
-- [Blinking LED with CubeMX, Keil ARM and Source Insight](https://letanphuc.net/2015/02/stm32f0-tutorial-gpio-blinking-led-cubemx-keil-source-insight/)
-### DMA
-- [How to use STM32 DMA](https://letanphuc.net/2014/06/how-to-use-stm32-dma)
+### STM32F0 Tutorials
+- [Le Tan Phuc's Weblog](https://letanphuc.net/)
 
 ## STemWin/emWin
 ### ARM Cortex-M7
