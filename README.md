@@ -36,6 +36,9 @@
 - [Zynq-7000. RS485 Linux driver.](http://microelk.azurewebsites.net/ZynqLnxRS485/ZynqLnxRS485)
 - [Cyclone V SoC. Platform driver for Avalon IP.](http://microelk.azurewebsites.net/CVAvalonIPModule/CVAvalonIPModule)
 
+### ARM
+- [Setting up an ARM-GCC toolchain from Ubuntu Linux](http://vedder.se/2012/04/setup_arm_toolchain/)
+
 ## Electronics
 - [VGA protocol disclosure](http://microelk.azurewebsites.net/VGA_protocol/VGA_protocol)
 - [Power supply based on LM2678 simple switcher that gives you more than 1A current](http://microelk.azurewebsites.net/LM2678ADJ/LM2678ADJ)
