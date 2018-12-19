@@ -7,6 +7,7 @@
 - [EmBitz: Tutorials for STM32F4 series](http://www.emblocks.org/wiki/)
 - [Connecting a programmer/debugger to my custom STM32 PCBs](http://vedder.se/2014/12/connecting-a-programmerdebugger-my-custom-stm32-pcbs/)
 - [Debugging the STM32F4 using openocd, gdb and Eclipse](http://vedder.se/2012/12/debugging-the-stm32f4-using-openocd-gdb-and-eclipse/)
+- [Get started with the STM32F4 on Ubuntu Linux](http://vedder.se/2012/07/get-started-with-stm32f4-on-ubuntu-linux/)
 
 ## STemWin/emWin
 ### ARM Cortex-M7
