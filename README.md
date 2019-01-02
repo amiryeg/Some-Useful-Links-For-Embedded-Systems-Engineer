@@ -31,6 +31,7 @@
 - [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 - [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 - [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf)
+- [The Great Tree-List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf)
 
 ## Unix
 
