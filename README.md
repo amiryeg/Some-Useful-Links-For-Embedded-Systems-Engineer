@@ -27,6 +27,7 @@
 
 ## Programming
 
+- [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
 - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 - [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 - [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
