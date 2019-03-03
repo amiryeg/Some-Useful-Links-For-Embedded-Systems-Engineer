@@ -10,6 +10,8 @@
 - [C for Python programmers](http://www.toves.org/books/cpy/) - Carl Burch
 - [C Notes](http://www.toves.org/books/cpy/) (PDF)
 - [C Programming Boot Camp](https://www.gribblelab.org/CBootCamp/) - Paul Gribble
+- [Deep C](http://www.slideshare.net/olvemaudal/deep-c) (Slides) - Olve Maudal
+- [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF) - Nick Parlante
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
