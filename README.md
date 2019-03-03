@@ -6,6 +6,7 @@
 - [Bare-metal programming for ARM](http://umanovskis.se/files/arm-baremetal-ebook.pdf) (PDF) - Daniels Umanovskis
 - [Beej's Guide to C Programming](http://beej.us/guide/bgc/pdf/bgc_A4_2.pdf) (PDF) - Brian Hall
 - [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/pdf/bgnet_A4_2.pdf) (PDF) - Brian Hall
+- [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
