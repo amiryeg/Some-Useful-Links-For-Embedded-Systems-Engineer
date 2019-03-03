@@ -15,7 +15,9 @@
 - [Everything you need to know about pointers in C](https://boredzo.org/pointers/) - Peter Hosey
 - [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
 - [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF) - Jens Gustedt
-
+- [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF) - Axel-Tobias Schreiner
+- [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala and Tep Dobry
+- [The C Book](https://publications.gbdirect.co.uk//c_book/)
 
 
 ## STM32 Microcontrollers
