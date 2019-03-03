@@ -3,6 +3,7 @@
 ### C
 - [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 - [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm) - Ted Jensen
+- [Bare-metal programming for ARM](http://umanovskis.se/files/arm-baremetal-ebook.pdf) - Daniels Umanovskis
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
