@@ -12,6 +12,11 @@
 - [C Programming Boot Camp](https://www.gribblelab.org/CBootCamp/) - Paul Gribble
 - [Deep C](http://www.slideshare.net/olvemaudal/deep-c) (Slides) - Olve Maudal
 - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF) - Nick Parlante
+- [Everything you need to know about pointers in C](https://boredzo.org/pointers/) - Peter Hosey
+- [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
+- [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF) - Jens Gustedt
+
+
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
