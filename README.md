@@ -1,4 +1,8 @@
 # Some Useful Links For Embedded Systems Engineer
+## Free Programming Books
+### C
+- [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
+- [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm) - Ted Jensen
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
