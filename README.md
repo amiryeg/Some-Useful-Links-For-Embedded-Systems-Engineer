@@ -18,7 +18,8 @@
 - [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF) - Axel-Tobias Schreiner
 - [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala and Tep Dobry
 - [The C Book](https://publications.gbdirect.co.uk//c_book/)
-
+- [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess
+- [The little book about OS development](http://littleosbook.github.io/) - Erik Helin and Adam Renberg
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
