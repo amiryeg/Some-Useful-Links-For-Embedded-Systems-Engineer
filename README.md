@@ -7,6 +7,9 @@
 - [Beej's Guide to C Programming](http://beej.us/guide/bgc/pdf/bgc_A4_2.pdf) (PDF) - Brian Hall
 - [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/pdf/bgnet_A4_2.pdf) (PDF) - Brian Hall
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
+- [C for Python programmers](http://www.toves.org/books/cpy/) - Carl Burch
+- [C Notes](http://www.toves.org/books/cpy/) (PDF)
+- [C Programming Boot Camp](https://www.gribblelab.org/CBootCamp/) - Paul Gribble
 
 ## STM32 Microcontrollers
 - [Tilen Majerle's Weblog: Libraries and tutorials for STM32F series](https://stm32f4-discovery.net/)
