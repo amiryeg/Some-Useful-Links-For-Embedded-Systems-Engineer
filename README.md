@@ -8,7 +8,7 @@
 - [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/pdf/bgnet_A4_2.pdf) (PDF) - Brian Hall
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 - [C for Python programmers](http://www.toves.org/books/cpy/) - Carl Burch
-- [C Notes](http://www.toves.org/books/cpy/) (PDF)
+- [C Notes](https://goalkicker.com/CBook/)
 - [C Programming Boot Camp](https://www.gribblelab.org/CBootCamp/) - Paul Gribble
 - [Deep C](http://www.slideshare.net/olvemaudal/deep-c) (Slides) - Olve Maudal
 - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF) - Nick Parlante
